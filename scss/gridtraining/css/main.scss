@@ -1,0 +1,9 @@
+.container {
+	background-color: #eeee;
+	width: 1000px;
+	margin: 30px auto;
+	
+	display: grid;
+	grid-template-rows: 150px 150px;
+	grid-tempalte-columns: 150px 150px 150px;
+}
